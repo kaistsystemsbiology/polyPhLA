@@ -1,7 +1,7 @@
 # PyRosetta source code for PhaC1437 engineering
 
 This source code was implemented based on PyRosetta in a Python 2.7 environment, and was confirmed to work in Ubuntu 12.04 version.
-A complex structure in which phenylactyl-CoA is bound to the active site of PhaC is used as input. The mutation site is determined within a predetermined range near the active site of PhaC (see lines 15-16 of the source code).
+A complex structure in which phenyllactyl-CoA is bound to the active site of PhaC is used as input. The mutation site is determined within a predetermined range near the active site of PhaC (see lines 15-16 of the source code).
 PyRosetta can be installed after obtaining a license and is free for academic users.
 
 
